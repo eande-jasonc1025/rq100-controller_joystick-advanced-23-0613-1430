@@ -1,5 +1,6 @@
 {
     "name": "RQ100-Controller_Joystick-Advanced-23-0613-1430",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
